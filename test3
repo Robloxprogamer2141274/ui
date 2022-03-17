@@ -1,4 +1,4 @@
---admin settings
+--admin settingss
 
 local admins = {"hellofarzad125"}
     local commands = {"tp","usingsilent","void","kick,ban"}

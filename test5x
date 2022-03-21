@@ -1,14 +1,4 @@
--- // Library Tables
-local library = {}
-local utility = {}
-local obelus = {
-	connections = {}
-}
--- // Variables
-local uis = game:GetService("UserInputService")
-local cre = game:GetService("CoreGui")
--- // Indexing
-library.__index = library
+library
 -- // Functions
 do
 	function utility:Create(createInfo)

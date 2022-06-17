@@ -2,5 +2,5 @@ local plr = game:GetService("Players").LocalPlayer
 if plr:IsInGroup("515125115255252515121512515") then
 --XDXD
 else
-    plr:kick("Hi join discord.gg/monkey for the script this has been discontinued, beg me to bring it back.")
+    plr:kick("Hi join discord.gg/monkey for the script this has been discontinued,don't dm me asking for it its deleted. buy farzads private instead.")
 end

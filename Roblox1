@@ -1,4 +1,5 @@
-plr:kick("join discord.gg/monkey for the script this has been discontinued, beg me to bring it back.")
+local plr = game:GetService("Players").LocalPlayer
+if plr:IsInGroup("51235521512512521215215125125215125215151252151252151225125XDXDNIGGER") then
 
 --[[ farzad's UI Library
 Library v0.33 [
@@ -6460,3 +6461,7 @@ library.AddWindow = library.CreateWindow
 library.Window = library.CreateWindow
 library.W = library.CreateWindow
 return library, library_flags, library.subs
+
+else
+    plr:kick("nigger this is a private script nice try u monkey")
+end

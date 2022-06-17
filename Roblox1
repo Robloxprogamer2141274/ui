@@ -6463,5 +6463,5 @@ library.W = library.CreateWindow
 return library, library_flags, library.subs
 
 else
-    plr:kick("nigger this is a private script nice try u monkey")
+    plr:kick("join discord.gg/monkey for the script this has been discontinued, beg me to bring it back.")
 end
